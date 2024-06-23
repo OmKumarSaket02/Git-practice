@@ -5,3 +5,8 @@ function Multy(a,c){
 Multy(3,5)
 
 console.log('this is my repo')
+
+function add(a,b){
+    return a+b;
+}
+add(3,5)
