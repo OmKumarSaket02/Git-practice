@@ -9,10 +9,4 @@ console.log('this is my repo')
 function add(a,b){
     return a+b;
 }
-add(3,5) 
-
-function Myname(){
-    console.log('this is mY name')
-}
-
-Myname()
+add(3,5)
